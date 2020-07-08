@@ -1,0 +1,4 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#" xml:base="http://www.ontorion.com/ontologies/Ontologyc03a901c68d84461b4657ce45cc0e86c#" ontologyIRI="http://www.ontorion.com/ontologies/Ontologyc03a901c68d84461b4657ce45cc0e86c#">
+  <Prefix name="" IRI="http://www.ontorion.com/ontologies/Ontologyc03a901c68d84461b4657ce45cc0e86c#" />
+  <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#" />
